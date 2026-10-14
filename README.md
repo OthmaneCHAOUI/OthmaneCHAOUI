@@ -1,4 +1,4 @@
-# Othmane Chaoui
+# Othmane CHAOUI
 
 **Software Engineering Student @ ENSIIE · France**
 
@@ -11,22 +11,21 @@ Currently focused on **software engineering, systems, backend development, and c
 * **Languages:** C · C++ · Java · Python · OCaml · SQL
 * **Backend & Data:** PostgreSQL · SQLite
 * **Software Engineering:** Git · GitHub · Linux · testing · architecture
-* **Desktop:** JavaFX · PyQt
-* **Environment:** Debian · KDE Plasma · Neovim
+* **Desktop:** JavaFX · PyQt · Qt
+* **Environment:** Debian · KDE Plasma · Neovim · VSCode · Intellji IDEA
 
-### Projects
+## What I am working on
 
-**[Workless] — Employee leave management**
+* Currnetly I am working on improving `hospital-manager` and `vacation-manager` repos, this includes : adding tests, executables/packages for different OS's, maybe mayking one of them a website as a way of learning Javascript - doker - CI/CD - networking...
+* I have plans of making a portfolio, but not for the moment (at least not before I work more on the two repos I mentioned previousely).
 
-A lightweight desktop application for managing employee vacations and leave.
+## My philosophy
 
-**OCaml Bytecode Virtual Machine**
+I use AI, but I can't bring myself to accept whatever AI gives me, I try to understand and validate what the AI provides, and then put the changes in the actual projects.
 
-A C implementation of an OCaml bytecode virtual machine, including bytecode parsing, stack management, values, globals, atoms, and VM execution.
+I hate to look at projects from tight view, like looking at it as seperate components, instead, I zoom out to have a better look at the entire project and I analyse and study it as a whole, meaning, I look at the project as a whole system, with all the componenets and features and their relation with other components and features, different inputs and outputs, where they go and what they touch, and *more importantly the whole process of running a project with the maximum details*.
 
-**Hospit**
-
-A JavaFX/MVC application for managing medical treatments, patients, doctors, appointments, medication, and tests.
+I constantly look for ways to improve my projects, you might have already noticed that I move between different projects all the time on github, this helps me stay sharp in different tools and programming languages.
 
 ### What I'm building toward
 
@@ -42,7 +41,7 @@ That means getting better at:
 * open-source collaboration
 * building larger systems from scratch
 
-I'm currently preparing for a **software engineering internship in France**.
+I'm currently preparing for a **software engineering internship in France** starting from May or June 2027.
 
 ---
 
