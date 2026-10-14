@@ -2,64 +2,57 @@
 
 **Software Engineering Student @ ENSIIE · France**
 
-I build software to understand how it works — from low-level systems to desktop applications and larger engineering projects.
+I build software to understand how it works — from low-level systems to desktop applications and larger software projects.
 
-Currently focused on **software engineering, systems, backend development, and computer science fundamentals**.
+Currently focused on **software engineering, system-level thinking, backend development, and computer science fundamentals**.
 
-### What I work with
+## Tech Stack
 
-* **Languages:** C · C++ · Java · Python · OCaml · SQL
-* **Backend & Data:** PostgreSQL · SQLite
-* **Software Engineering:** Git · GitHub · Linux · testing · architecture
-* **Desktop:** JavaFX · PyQt · Qt
-* **Environment:** Debian · KDE Plasma · Neovim · VSCode · Intellji IDEA
+- **Languages:** C · C++ · Java · Python · OCaml · SQL
+- **Databases:** PostgreSQL · SQLite · MySQL
+- **Frameworks:** JavaFX · PyQt · Qt
+- **Tools:** Git · GitHub · Linux · Maven 
+- **Environment:** Debian · KDE Plasma · Neovim · VS Code · IntelliJ IDEA
 
-## What I am working on
+## Current Focus
 
-* Currnetly I am working on improving `hospital-manager` and `vacation-manager` repos, this includes : adding tests, executables/packages for different OS's, maybe mayking one of them a website as a way of learning Javascript - doker - CI/CD - networking...
-* I have plans of making a portfolio, but not for the moment (at least not before I work more on the two repos I mentioned previousely).
+I'm actively improving two projects:
 
-## My philosophy
+- **[hospital-manager](https://github.com/OthmaneCHAOUI/hospital-manager)** — a JavaFX application for managing patients, doctors, appointments, and medical treatments.
+- **[vacation-manager](https://github.com/OthmaneCHAOUI/vacation-manager)** — a desktop application for employee leave management.
 
-I use AI, but I can't bring myself to accept whatever AI gives me, I try to understand and validate what the AI provides, and then put the changes in the actual projects.
+My current priorities include testing, maintainability, packaging applications for different operating systems, and improving the overall project architecture.
 
-I hate to look at projects from tight view, like looking at it as seperate components, instead, I zoom out to have a better look at the entire project and I analyse and study it as a whole, meaning, I look at the project as a whole system, with all the componenets and features and their relation with other components and features, different inputs and outputs, where they go and what they touch, and *more importantly the whole process of running a project with the maximum details*.
+I'm also exploring web development, networking, Docker, and CI/CD, with the goal of applying these technologies to real projects rather than learning them in isolation.
 
-I constantly look for ways to improve my projects, you might have already noticed that I move between different projects all the time on github, this helps me stay sharp in different tools and programming languages.
+A portfolio website is planned for later. For now, the priority is making these projects better.
 
-### What I'm building toward
+## Engineering Philosophy
 
-I want to become a **strong software engineer**, not just someone who knows a collection of frameworks.
+**I use AI as a tool, not as a substitute for understanding.**
 
-That means getting better at:
+I question, test, and validate AI-generated code before integrating it into my projects. If I cannot explain a change, I have more work to do.
 
-* algorithms and data structures
-* system design and software architecture
-* databases and backend systems
-* networking and operating systems
-* clean, maintainable code
-* open-source collaboration
-* building larger systems from scratch
+I prefer understanding software as a **complete system**, not just a collection of isolated components. I look at how features interact, how data flows through the application, how components depend on one another, and what happens throughout the execution lifecycle.
 
-I'm currently preparing for a **software engineering internship in France** starting from May or June 2027.
+I continuously revisit and improve my projects, working across different languages and tools while strengthening the fundamentals behind them.
+
+## What I'm Building Toward
+
+My goal is to become a **strong software engineer**, not just someone who knows a collection of frameworks.
+
+I'm working toward deeper knowledge of:
+
+- Algorithms and data structures
+- System design and software architecture
+- Databases and backend systems
+- Networking and operating systems
+- Testing and maintainable code
+- Open-source collaboration
+- Building and understanding larger systems end to end
+
+**Currently seeking a software engineering internship in France, starting May–June 2027.**
 
 ---
 
 > **Build it. Understand it. Improve it.**
-
-
-
-<!--
-**OthmaneCHAOUI/OthmaneCHAOUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
