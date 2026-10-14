@@ -51,7 +51,7 @@ I'm working toward deeper knowledge of:
 - Open-source collaboration
 - Building and understanding larger systems end to end
 
-**Currently seeking a software engineering internship in France, starting May–June 2027.**
+**Currently seeking a software engineering internship in France, starting May–June 2027 for a minimum duration of 10 weeks.**
 
 ---
 
